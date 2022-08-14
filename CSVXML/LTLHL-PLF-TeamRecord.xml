@@ -1,0 +1,2095 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeLeagueTeamRecord xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeLeagueTeamRecord>
+    <intTeamMostGoalsIn1Game>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 18</string>
+        <string>Team 13</string>
+        <string>Team 18</string>
+        <string>Team 18</string>
+        <string>Team 18</string>
+        <string>Team 2</string>
+        <string>Team 2</string>
+        <string>Team 12</string>
+        <string>Team 18</string>
+        <string>Team 18</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>3</short>
+        <short>3</short>
+        <short>3</short>
+        <short>3</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>10</short>
+        <short>9</short>
+        <short>8</short>
+        <short>8</short>
+        <short>8</short>
+        <short>8</short>
+        <short>8</short>
+        <short>8</short>
+        <short>8</short>
+        <short>8</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>378</short>
+        <short>74</short>
+        <short>551</short>
+        <short>608</short>
+        <short>851</short>
+        <short>128</short>
+        <short>152</short>
+        <short>378</short>
+        <short>544</short>
+        <short>843</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostGoalsIn1Game>
+    <intTeamMostGoalsIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 18</string>
+        <string>Team 12</string>
+        <string>Team 18</string>
+        <string>Team 12</string>
+        <string>Team 10</string>
+        <string>Team 2</string>
+        <string>Team 17</string>
+        <string>Team 10</string>
+        <string>Team 2</string>
+        <string>Team 17</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>3</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>295</short>
+        <short>290</short>
+        <short>275</short>
+        <short>268</short>
+        <short>263</short>
+        <short>258</short>
+        <short>250</short>
+        <short>248</short>
+        <short>247</short>
+        <short>244</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostGoalsIn1Year>
+    <intTeamLessGoalsIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 22</string>
+        <string>Team 21</string>
+        <string>Team 9</string>
+        <string>Team 22</string>
+        <string>Team 16</string>
+        <string>Team 4</string>
+        <string>Team 21</string>
+        <string>Team 20</string>
+        <string>Team 22</string>
+        <string>Team 11</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>1</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>152</short>
+        <short>154</short>
+        <short>160</short>
+        <short>162</short>
+        <short>162</short>
+        <short>164</short>
+        <short>165</short>
+        <short>166</short>
+        <short>166</short>
+        <short>168</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamLessGoalsIn1Year>
+    <intTeamMostGoalAgaIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 20</string>
+        <string>Team 20</string>
+        <string>Team 19</string>
+        <string>Team 7</string>
+        <string>Team 20</string>
+        <string>Team 19</string>
+        <string>Team 22</string>
+        <string>Team 9</string>
+        <string>Team 9</string>
+        <string>Team 5</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>3</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>263</short>
+        <short>255</short>
+        <short>251</short>
+        <short>247</short>
+        <short>245</short>
+        <short>245</short>
+        <short>242</short>
+        <short>229</short>
+        <short>228</short>
+        <short>225</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostGoalAgaIn1Year>
+    <intTeamLessGoalAgaIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 11</string>
+        <string>Team 24</string>
+        <string>Team 2</string>
+        <string>Team 2</string>
+        <string>Team 3</string>
+        <string>Team 1</string>
+        <string>Team 19</string>
+        <string>Team 3</string>
+        <string>Team 15</string>
+        <string>Team 15</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>1</short>
+        <short>3</short>
+        <short>1</short>
+        <short>2</short>
+        <short>1</short>
+        <short>2</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>162</short>
+        <short>164</short>
+        <short>170</short>
+        <short>174</short>
+        <short>175</short>
+        <short>179</short>
+        <short>181</short>
+        <short>181</short>
+        <short>181</short>
+        <short>182</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamLessGoalAgaIn1Year>
+    <intTeamMostAssistsIn1Game>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 18</string>
+        <string>Team 13</string>
+        <string>Team 18</string>
+        <string>Team 12</string>
+        <string>Team 18</string>
+        <string>Team 18</string>
+        <string>Team 12</string>
+        <string>Team 18</string>
+        <string>Team 24</string>
+        <string>Team 2</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>17</short>
+        <short>17</short>
+        <short>16</short>
+        <short>16</short>
+        <short>15</short>
+        <short>14</short>
+        <short>14</short>
+        <short>14</short>
+        <short>14</short>
+        <short>14</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>378</short>
+        <short>74</short>
+        <short>608</short>
+        <short>378</short>
+        <short>851</short>
+        <short>551</short>
+        <short>70</short>
+        <short>301</short>
+        <short>905</short>
+        <short>128</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostAssistsIn1Game>
+    <intTeamMostAssistsIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 18</string>
+        <string>Team 12</string>
+        <string>Team 18</string>
+        <string>Team 10</string>
+        <string>Team 12</string>
+        <string>Team 2</string>
+        <string>Team 10</string>
+        <string>Team 17</string>
+        <string>Team 2</string>
+        <string>Team 17</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>1</short>
+        <short>3</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>524</short>
+        <short>508</short>
+        <short>488</short>
+        <short>487</short>
+        <short>480</short>
+        <short>459</short>
+        <short>444</short>
+        <short>443</short>
+        <short>443</short>
+        <short>435</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostAssistsIn1Year>
+    <intTeamLessAssistsIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 21</string>
+        <string>Team 22</string>
+        <string>Team 22</string>
+        <string>Team 9</string>
+        <string>Team 21</string>
+        <string>Team 22</string>
+        <string>Team 16</string>
+        <string>Team 20</string>
+        <string>Team 4</string>
+        <string>Team 11</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>3</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>2</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>257</short>
+        <short>272</short>
+        <short>279</short>
+        <short>282</short>
+        <short>284</short>
+        <short>284</short>
+        <short>286</short>
+        <short>292</short>
+        <short>292</short>
+        <short>294</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamLessAssistsIn1Year>
+    <intTeamMostGamePointsIn1Game>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 18</string>
+        <string>Team 13</string>
+        <string>Team 18</string>
+        <string>Team 12</string>
+        <string>Team 18</string>
+        <string>Team 18</string>
+        <string>Team 2</string>
+        <string>Team 2</string>
+        <string>Team 18</string>
+        <string>Team 12</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>1</short>
+        <short>3</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>27</short>
+        <short>26</short>
+        <short>24</short>
+        <short>24</short>
+        <short>23</short>
+        <short>22</short>
+        <short>22</short>
+        <short>22</short>
+        <short>22</short>
+        <short>21</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>378</short>
+        <short>74</short>
+        <short>608</short>
+        <short>378</short>
+        <short>851</short>
+        <short>551</short>
+        <short>128</short>
+        <short>152</short>
+        <short>843</short>
+        <short>70</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostGamePointsIn1Game>
+    <intTeamMostGamePointsIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 18</string>
+        <string>Team 12</string>
+        <string>Team 18</string>
+        <string>Team 10</string>
+        <string>Team 12</string>
+        <string>Team 2</string>
+        <string>Team 10</string>
+        <string>Team 2</string>
+        <string>Team 17</string>
+        <string>Team 17</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>3</short>
+        <short>1</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>819</short>
+        <short>798</short>
+        <short>763</short>
+        <short>750</short>
+        <short>748</short>
+        <short>717</short>
+        <short>692</short>
+        <short>690</short>
+        <short>687</short>
+        <short>685</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostGamePointsIn1Year>
+    <intTeamLessGamePointsIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 21</string>
+        <string>Team 22</string>
+        <string>Team 9</string>
+        <string>Team 22</string>
+        <string>Team 22</string>
+        <string>Team 16</string>
+        <string>Team 21</string>
+        <string>Team 4</string>
+        <string>Team 20</string>
+        <string>Team 11</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+        <short>1</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>411</short>
+        <short>424</short>
+        <short>442</short>
+        <short>445</short>
+        <short>446</short>
+        <short>448</short>
+        <short>449</short>
+        <short>456</short>
+        <short>458</short>
+        <short>462</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamLessGamePointsIn1Year>
+    <intTeamMostShotsIn1Game>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 14</string>
+        <string>Team 2</string>
+        <string>Team 12</string>
+        <string>Team 17</string>
+        <string>Team 2</string>
+        <string>Team 18</string>
+        <string>Team 12</string>
+        <string>Team 24</string>
+        <string>Team 18</string>
+        <string>Team 3</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>1</short>
+        <short>1</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>60</short>
+        <short>60</short>
+        <short>60</short>
+        <short>54</short>
+        <short>54</short>
+        <short>54</short>
+        <short>54</short>
+        <short>53</short>
+        <short>53</short>
+        <short>53</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>52</short>
+        <short>819</short>
+        <short>47</short>
+        <short>372</short>
+        <short>532</short>
+        <short>751</short>
+        <short>446</short>
+        <short>66</short>
+        <short>562</short>
+        <short>834</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostShotsIn1Game>
+    <intTeamMostShotsIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 18</string>
+        <string>Team 12</string>
+        <string>Team 2</string>
+        <string>Team 18</string>
+        <string>Team 2</string>
+        <string>Team 2</string>
+        <string>Team 12</string>
+        <string>Team 18</string>
+        <string>Team 10</string>
+        <string>Team 10</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>3</short>
+        <short>2</short>
+        <short>1</short>
+        <short>3</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>2632</short>
+        <short>2614</short>
+        <short>2588</short>
+        <short>2567</short>
+        <short>2555</short>
+        <short>2550</short>
+        <short>2549</short>
+        <short>2536</short>
+        <short>2446</short>
+        <short>2433</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostShotsIn1Year>
+    <intTeamLessShotsIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 21</string>
+        <string>Team 21</string>
+        <string>Team 22</string>
+        <string>Team 9</string>
+        <string>Team 11</string>
+        <string>Team 22</string>
+        <string>Team 4</string>
+        <string>Team 22</string>
+        <string>Team 21</string>
+        <string>Team 16</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>1</short>
+        <short>1</short>
+        <short>2</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>1705</short>
+        <short>1715</short>
+        <short>1724</short>
+        <short>1731</short>
+        <short>1733</short>
+        <short>1765</short>
+        <short>1766</short>
+        <short>1799</short>
+        <short>1800</short>
+        <short>1829</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamLessShotsIn1Year>
+    <intTeamMostShotsBlockIn1Game>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 7</string>
+        <string>Team 9</string>
+        <string>Team 8</string>
+        <string>Team 23</string>
+        <string>Team 12</string>
+        <string>Team 14</string>
+        <string>Team 7</string>
+        <string>Team 12</string>
+        <string>Team 13</string>
+        <string>Team 6</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>3</short>
+        <short>1</short>
+        <short>3</short>
+        <short>1</short>
+        <short>1</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>23</short>
+        <short>22</short>
+        <short>21</short>
+        <short>21</short>
+        <short>20</short>
+        <short>20</short>
+        <short>20</short>
+        <short>20</short>
+        <short>19</short>
+        <short>19</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>333</short>
+        <short>3</short>
+        <short>536</short>
+        <short>525</short>
+        <short>396</short>
+        <short>681</short>
+        <short>720</short>
+        <short>663</short>
+        <short>14</short>
+        <short>294</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostShotsBlockIn1Game>
+    <intTeamMostShotsBlockIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 20</string>
+        <string>Team 12</string>
+        <string>Team 20</string>
+        <string>Team 7</string>
+        <string>Team 20</string>
+        <string>Team 12</string>
+        <string>Team 22</string>
+        <string>Team 23</string>
+        <string>Team 7</string>
+        <string>Team 22</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>1</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>832</short>
+        <short>718</short>
+        <short>700</short>
+        <short>699</short>
+        <short>692</short>
+        <short>690</short>
+        <short>690</short>
+        <short>662</short>
+        <short>662</short>
+        <short>661</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostShotsBlockIn1Year>
+    <intTeamLessShotsBlockIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 3</string>
+        <string>Team 10</string>
+        <string>Team 3</string>
+        <string>Team 3</string>
+        <string>Team 6</string>
+        <string>Team 15</string>
+        <string>Team 10</string>
+        <string>Team 4</string>
+        <string>Team 21</string>
+        <string>Team 16</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>1</short>
+        <short>1</short>
+        <short>3</short>
+        <short>2</short>
+        <short>1</short>
+        <short>2</short>
+        <short>1</short>
+        <short>1</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>459</short>
+        <short>486</short>
+        <short>519</short>
+        <short>522</short>
+        <short>523</short>
+        <short>534</short>
+        <short>540</short>
+        <short>543</short>
+        <short>543</short>
+        <short>543</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamLessShotsBlockIn1Year>
+    <intTeamMostShotsAgaIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 20</string>
+        <string>Team 20</string>
+        <string>Team 7</string>
+        <string>Team 12</string>
+        <string>Team 22</string>
+        <string>Team 20</string>
+        <string>Team 12</string>
+        <string>Team 7</string>
+        <string>Team 19</string>
+        <string>Team 5</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>3</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>3</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>2615</short>
+        <short>2513</short>
+        <short>2347</short>
+        <short>2346</short>
+        <short>2329</short>
+        <short>2314</short>
+        <short>2298</short>
+        <short>2291</short>
+        <short>2284</short>
+        <short>2262</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostShotsAgaIn1Year>
+    <intTeamLessShotsAgaIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 3</string>
+        <string>Team 3</string>
+        <string>Team 3</string>
+        <string>Team 15</string>
+        <string>Team 10</string>
+        <string>Team 15</string>
+        <string>Team 15</string>
+        <string>Team 11</string>
+        <string>Team 21</string>
+        <string>Team 10</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>3</short>
+        <short>1</short>
+        <short>1</short>
+        <short>2</short>
+        <short>1</short>
+        <short>1</short>
+        <short>3</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>1683</short>
+        <short>1711</short>
+        <short>1769</short>
+        <short>1844</short>
+        <short>1853</short>
+        <short>1876</short>
+        <short>1881</short>
+        <short>1886</short>
+        <short>1898</short>
+        <short>1899</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamLessShotsAgaIn1Year>
+    <intTeamMostPimIn1Game>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 6</string>
+        <string>Team 15</string>
+        <string>Team 12</string>
+        <string>Team 1</string>
+        <string>Team 19</string>
+        <string>Team 9</string>
+        <string>Team 21</string>
+        <string>Team 21</string>
+        <string>Team 23</string>
+        <string>Team 19</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>47</short>
+        <short>43</short>
+        <short>40</short>
+        <short>39</short>
+        <short>39</short>
+        <short>37</short>
+        <short>37</short>
+        <short>37</short>
+        <short>37</short>
+        <short>35</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>841</short>
+        <short>321</short>
+        <short>60</short>
+        <short>620</short>
+        <short>891</short>
+        <short>727</short>
+        <short>913</short>
+        <short>361</short>
+        <short>779</short>
+        <short>791</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostPimIn1Game>
+    <intTeamMostPimIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 12</string>
+        <string>Team 17</string>
+        <string>Team 12</string>
+        <string>Team 17</string>
+        <string>Team 13</string>
+        <string>Team 6</string>
+        <string>Team 19</string>
+        <string>Team 12</string>
+        <string>Team 13</string>
+        <string>Team 6</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>3</short>
+        <short>1</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>925</short>
+        <short>820</short>
+        <short>808</short>
+        <short>788</short>
+        <short>781</short>
+        <short>780</short>
+        <short>780</short>
+        <short>777</short>
+        <short>774</short>
+        <short>766</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostPimIn1Year>
+    <intTeamLessPimIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 1</string>
+        <string>Team 1</string>
+        <string>Team 18</string>
+        <string>Team 3</string>
+        <string>Team 10</string>
+        <string>Team 10</string>
+        <string>Team 3</string>
+        <string>Team 8</string>
+        <string>Team 10</string>
+        <string>Team 1</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>1</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>469</short>
+        <short>471</short>
+        <short>493</short>
+        <short>500</short>
+        <short>504</short>
+        <short>522</short>
+        <short>529</short>
+        <short>530</short>
+        <short>534</short>
+        <short>539</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamLessPimIn1Year>
+    <intTeamMostHitsIn1Game>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 18</string>
+        <string>Team 24</string>
+        <string>Team 5</string>
+        <string>Team 12</string>
+        <string>Team 4</string>
+        <string>Team 13</string>
+        <string>Team 4</string>
+        <string>Team 15</string>
+        <string>Team 20</string>
+        <string>Team 8</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>3</short>
+        <short>1</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>1</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>48</short>
+        <short>47</short>
+        <short>44</short>
+        <short>44</short>
+        <short>43</short>
+        <short>42</short>
+        <short>42</short>
+        <short>41</short>
+        <short>41</short>
+        <short>41</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>491</short>
+        <short>400</short>
+        <short>501</short>
+        <short>785</short>
+        <short>226</short>
+        <short>856</short>
+        <short>537</short>
+        <short>17</short>
+        <short>106</short>
+        <short>342</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostHitsIn1Game>
+    <intTeamMostHitsIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 12</string>
+        <string>Team 12</string>
+        <string>Team 12</string>
+        <string>Team 13</string>
+        <string>Team 24</string>
+        <string>Team 6</string>
+        <string>Team 19</string>
+        <string>Team 17</string>
+        <string>Team 6</string>
+        <string>Team 24</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>2114</short>
+        <short>2096</short>
+        <short>2091</short>
+        <short>2080</short>
+        <short>2050</short>
+        <short>2028</short>
+        <short>2013</short>
+        <short>2009</short>
+        <short>2007</short>
+        <short>2007</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostHitsIn1Year>
+    <intTeamLessHitsIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 1</string>
+        <string>Team 1</string>
+        <string>Team 21</string>
+        <string>Team 16</string>
+        <string>Team 1</string>
+        <string>Team 9</string>
+        <string>Team 16</string>
+        <string>Team 3</string>
+        <string>Team 3</string>
+        <string>Team 14</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>1</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>1588</short>
+        <short>1624</short>
+        <short>1650</short>
+        <short>1663</short>
+        <short>1708</short>
+        <short>1709</short>
+        <short>1713</short>
+        <short>1726</short>
+        <short>1733</short>
+        <short>1737</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamLessHitsIn1Year>
+    <intTeamMostEmptyNetGoalIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 16</string>
+        <string>Team 13</string>
+        <string>Team 19</string>
+        <string>Team 20</string>
+        <string>Team 5</string>
+        <string>Team 11</string>
+        <string>Team 12</string>
+        <string>Team 23</string>
+        <string>Team 4</string>
+        <string>Team 5</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>1</short>
+        <short>1</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>7</short>
+        <short>4</short>
+        <short>4</short>
+        <short>4</short>
+        <short>3</short>
+        <short>3</short>
+        <short>3</short>
+        <short>3</short>
+        <short>3</short>
+        <short>3</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostEmptyNetGoalIn1Year>
+    <intTeamBestPPIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 18</string>
+        <string>Team 2</string>
+        <string>Team 5</string>
+        <string>Team 23</string>
+        <string>Team 24</string>
+        <string>Team 22</string>
+        <string>Team 17</string>
+        <string>Team 2</string>
+        <string>Team 17</string>
+        <string>Team 10</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>1</short>
+        <short>1</short>
+        <short>2</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>231</short>
+        <short>228</short>
+        <short>226</short>
+        <short>214</short>
+        <short>214</short>
+        <short>211</short>
+        <short>208</short>
+        <short>207</short>
+        <short>207</short>
+        <short>205</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamBestPPIn1Year>
+    <intTeamBestPKIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 2</string>
+        <string>Team 1</string>
+        <string>Team 15</string>
+        <string>Team 24</string>
+        <string>Team 17</string>
+        <string>Team 12</string>
+        <string>Team 2</string>
+        <string>Team 19</string>
+        <string>Team 11</string>
+        <string>Team 17</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>1</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>886</short>
+        <short>880</short>
+        <short>878</short>
+        <short>878</short>
+        <short>876</short>
+        <short>874</short>
+        <short>862</short>
+        <short>861</short>
+        <short>860</short>
+        <short>858</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamBestPKIn1Year>
+    <intTeamWorsePPIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 11</string>
+        <string>Team 4</string>
+        <string>Team 8</string>
+        <string>Team 8</string>
+        <string>Team 9</string>
+        <string>Team 14</string>
+        <string>Team 4</string>
+        <string>Team 9</string>
+        <string>Team 21</string>
+        <string>Team 20</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>1</short>
+        <short>1</short>
+        <short>3</short>
+        <short>3</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>102</short>
+        <short>105</short>
+        <short>107</short>
+        <short>109</short>
+        <short>117</short>
+        <short>120</short>
+        <short>127</short>
+        <short>129</short>
+        <short>131</short>
+        <short>133</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamWorsePPIn1Year>
+    <intTeamWorsePKIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 9</string>
+        <string>Team 18</string>
+        <string>Team 5</string>
+        <string>Team 7</string>
+        <string>Team 5</string>
+        <string>Team 5</string>
+        <string>Team 10</string>
+        <string>Team 9</string>
+        <string>Team 12</string>
+        <string>Team 14</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>3</short>
+        <short>3</short>
+        <short>1</short>
+        <short>1</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>765</short>
+        <short>766</short>
+        <short>769</short>
+        <short>777</short>
+        <short>782</short>
+        <short>801</short>
+        <short>803</short>
+        <short>806</short>
+        <short>806</short>
+        <short>806</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamWorsePKIn1Year>
+    <intTeamMostWinIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 2</string>
+        <string>Team 18</string>
+        <string>Team 2</string>
+        <string>Team 2</string>
+        <string>Team 24</string>
+        <string>Team 17</string>
+        <string>Team 10</string>
+        <string>Team 24</string>
+        <string>Team 1</string>
+        <string>Team 12</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>55</short>
+        <short>54</short>
+        <short>53</short>
+        <short>53</short>
+        <short>52</short>
+        <short>52</short>
+        <short>51</short>
+        <short>51</short>
+        <short>51</short>
+        <short>51</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostWinIn1Year>
+    <intTeamLessWinIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 20</string>
+        <string>Team 20</string>
+        <string>Team 19</string>
+        <string>Team 22</string>
+        <string>Team 20</string>
+        <string>Team 22</string>
+        <string>Team 5</string>
+        <string>Team 22</string>
+        <string>Team 21</string>
+        <string>Team 9</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>3</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>20</short>
+        <short>24</short>
+        <short>25</short>
+        <short>25</short>
+        <short>27</short>
+        <short>29</short>
+        <short>29</short>
+        <short>30</short>
+        <short>30</short>
+        <short>31</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamLessWinIn1Year>
+    <intTeamMostLostIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 20</string>
+        <string>Team 20</string>
+        <string>Team 19</string>
+        <string>Team 22</string>
+        <string>Team 20</string>
+        <string>Team 22</string>
+        <string>Team 5</string>
+        <string>Team 22</string>
+        <string>Team 21</string>
+        <string>Team 9</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>3</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>60</short>
+        <short>56</short>
+        <short>55</short>
+        <short>55</short>
+        <short>53</short>
+        <short>51</short>
+        <short>51</short>
+        <short>50</short>
+        <short>50</short>
+        <short>49</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostLostIn1Year>
+    <intTeamLessLostIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 2</string>
+        <string>Team 18</string>
+        <string>Team 2</string>
+        <string>Team 2</string>
+        <string>Team 24</string>
+        <string>Team 17</string>
+        <string>Team 10</string>
+        <string>Team 24</string>
+        <string>Team 1</string>
+        <string>Team 12</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>25</short>
+        <short>26</short>
+        <short>27</short>
+        <short>27</short>
+        <short>28</short>
+        <short>28</short>
+        <short>29</short>
+        <short>29</short>
+        <short>29</short>
+        <short>29</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamLessLostIn1Year>
+    <intTeamMostPointsIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 18</string>
+        <string>Team 2</string>
+        <string>Team 2</string>
+        <string>Team 1</string>
+        <string>Team 2</string>
+        <string>Team 10</string>
+        <string>Team 24</string>
+        <string>Team 17</string>
+        <string>Team 12</string>
+        <string>Team 17</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>1</short>
+        <short>1</short>
+        <short>1</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>116</short>
+        <short>115</short>
+        <short>114</short>
+        <short>112</short>
+        <short>110</short>
+        <short>109</short>
+        <short>109</short>
+        <short>108</short>
+        <short>108</short>
+        <short>108</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostPointsIn1Year>
+    <intTeamLessPointsIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 20</string>
+        <string>Team 20</string>
+        <string>Team 20</string>
+        <string>Team 19</string>
+        <string>Team 22</string>
+        <string>Team 21</string>
+        <string>Team 9</string>
+        <string>Team 22</string>
+        <string>Team 16</string>
+        <string>Team 5</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>1</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>50</short>
+        <short>58</short>
+        <short>58</short>
+        <short>59</short>
+        <short>60</short>
+        <short>65</short>
+        <short>66</short>
+        <short>68</short>
+        <short>68</short>
+        <short>69</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamLessPointsIn1Year>
+    <intTeamMostWinHomeIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 2</string>
+        <string>Team 2</string>
+        <string>Team 24</string>
+        <string>Team 12</string>
+        <string>Team 1</string>
+        <string>Team 2</string>
+        <string>Team 10</string>
+        <string>Team 24</string>
+        <string>Team 17</string>
+        <string>Team 3</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>1</short>
+        <short>3</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>28</short>
+        <short>25</short>
+        <short>25</short>
+        <short>25</short>
+        <short>24</short>
+        <short>24</short>
+        <short>23</short>
+        <short>23</short>
+        <short>23</short>
+        <short>22</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostWinHomeIn1Year>
+    <intTeamMostWinVisitorIn1Year>
+      <TeamName>
+        <string xsi:nil="true" />
+        <string>Team 18</string>
+        <string>Team 2</string>
+        <string>Team 17</string>
+        <string>Team 12</string>
+        <string>Team 10</string>
+        <string>Team 17</string>
+        <string>Team 3</string>
+        <string>Team 15</string>
+        <string>Team 2</string>
+        <string>Team 1</string>
+      </TeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>2</short>
+        <short>3</short>
+        <short>3</short>
+        <short>1</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>27</short>
+        <short>26</short>
+        <short>25</short>
+        <short>24</short>
+        <short>23</short>
+        <short>23</short>
+        <short>22</short>
+        <short>22</short>
+        <short>22</short>
+        <short>21</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+        <short>0</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intTeamMostWinVisitorIn1Year>
+  </TypeLeagueTeamRecord>
+</ArrayOfTypeLeagueTeamRecord>

@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeLeagueGameRecord xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeLeagueGameRecord>
+    <intGameMostGoals>
+      <HomeTeamName>
+        <string xsi:nil="true" />
+        <string>Team 10</string>
+        <string>Team 18</string>
+        <string>Team 18</string>
+        <string>Team 20</string>
+        <string>Team 18</string>
+        <string>Team 3</string>
+        <string>Team 1</string>
+        <string>Team 5</string>
+        <string>Team 12</string>
+        <string>Team 23</string>
+      </HomeTeamName>
+      <VisitorTeamName>
+        <string xsi:nil="true" />
+        <string>Team 17</string>
+        <string>Team 12</string>
+        <string>Team 10</string>
+        <string>Team 12</string>
+        <string>Team 12</string>
+        <string>Team 21</string>
+        <string>Team 13</string>
+        <string>Team 7</string>
+        <string>Team 18</string>
+        <string>Team 12</string>
+      </VisitorTeamName>
+      <Year>
+        <short>0</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+        <short>1</short>
+        <short>1</short>
+        <short>2</short>
+        <short>3</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>13</short>
+        <short>13</short>
+        <short>13</short>
+        <short>13</short>
+        <short>13</short>
+        <short>12</short>
+        <short>12</short>
+        <short>12</short>
+        <short>12</short>
+        <short>12</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>718</short>
+        <short>608</short>
+        <short>654</short>
+        <short>843</short>
+        <short>843</short>
+        <short>34</short>
+        <short>178</short>
+        <short>357</short>
+        <short>378</short>
+        <short>351</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intGameMostGoals>
+    <intGameMostAssists>
+      <HomeTeamName>
+        <string xsi:nil="true" />
+        <string>Team 12</string>
+        <string>Team 18</string>
+        <string>Team 18</string>
+        <string>Team 18</string>
+        <string>Team 17</string>
+        <string>Team 20</string>
+        <string>Team 3</string>
+        <string>Team 1</string>
+        <string>Team 7</string>
+        <string>Team 3</string>
+      </HomeTeamName>
+      <VisitorTeamName>
+        <string xsi:nil="true" />
+        <string>Team 14</string>
+        <string>Team 10</string>
+        <string>Team 12</string>
+        <string>Team 12</string>
+        <string>Team 19</string>
+        <string>Team 12</string>
+        <string>Team 21</string>
+        <string>Team 21</string>
+        <string>Team 1</string>
+        <string>Team 1</string>
+      </VisitorTeamName>
+      <Year>
+        <short>0</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>1</short>
+        <short>1</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>24</short>
+        <short>23</short>
+        <short>23</short>
+        <short>22</short>
+        <short>22</short>
+        <short>22</short>
+        <short>21</short>
+        <short>21</short>
+        <short>21</short>
+        <short>21</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>378</short>
+        <short>654</short>
+        <short>843</short>
+        <short>608</short>
+        <short>800</short>
+        <short>843</short>
+        <short>34</short>
+        <short>624</short>
+        <short>835</short>
+        <short>154</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intGameMostAssists>
+    <intGameMostPoints>
+      <HomeTeamName>
+        <string xsi:nil="true" />
+        <string>Team 18</string>
+        <string>Team 12</string>
+        <string>Team 18</string>
+        <string>Team 18</string>
+        <string>Team 20</string>
+        <string>Team 3</string>
+        <string>Team 12</string>
+        <string>Team 17</string>
+        <string>Team 2</string>
+        <string>Team 1</string>
+      </HomeTeamName>
+      <VisitorTeamName>
+        <string xsi:nil="true" />
+        <string>Team 10</string>
+        <string>Team 14</string>
+        <string>Team 12</string>
+        <string>Team 12</string>
+        <string>Team 12</string>
+        <string>Team 21</string>
+        <string>Team 18</string>
+        <string>Team 19</string>
+        <string>Team 23</string>
+        <string>Team 21</string>
+      </VisitorTeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>36</short>
+        <short>36</short>
+        <short>36</short>
+        <short>35</short>
+        <short>35</short>
+        <short>33</short>
+        <short>33</short>
+        <short>33</short>
+        <short>33</short>
+        <short>32</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>654</short>
+        <short>378</short>
+        <short>843</short>
+        <short>608</short>
+        <short>843</short>
+        <short>34</short>
+        <short>378</short>
+        <short>800</short>
+        <short>729</short>
+        <short>624</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intGameMostPoints>
+    <intGameMostShots>
+      <HomeTeamName>
+        <string xsi:nil="true" />
+        <string>Team 17</string>
+        <string>Team 2</string>
+        <string>Team 24</string>
+        <string>Team 18</string>
+        <string>Team 18</string>
+        <string>Team 18</string>
+        <string>Team 18</string>
+        <string>Team 1</string>
+        <string>Team 8</string>
+        <string>Team 14</string>
+      </HomeTeamName>
+      <VisitorTeamName>
+        <string xsi:nil="true" />
+        <string>Team 5</string>
+        <string>Team 19</string>
+        <string>Team 2</string>
+        <string>Team 2</string>
+        <string>Team 6</string>
+        <string>Team 10</string>
+        <string>Team 1</string>
+        <string>Team 23</string>
+        <string>Team 12</string>
+        <string>Team 18</string>
+      </VisitorTeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>2</short>
+        <short>3</short>
+        <short>1</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>91</short>
+        <short>91</short>
+        <short>89</short>
+        <short>85</short>
+        <short>85</short>
+        <short>84</short>
+        <short>84</short>
+        <short>83</short>
+        <short>83</short>
+        <short>82</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>372</short>
+        <short>532</short>
+        <short>400</short>
+        <short>764</short>
+        <short>210</short>
+        <short>654</short>
+        <short>703</short>
+        <short>499</short>
+        <short>272</short>
+        <short>52</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intGameMostShots>
+    <intGameMostPim>
+      <HomeTeamName>
+        <string xsi:nil="true" />
+        <string>Team 6</string>
+        <string>Team 15</string>
+        <string>Team 16</string>
+        <string>Team 9</string>
+        <string>Team 7</string>
+        <string>Team 21</string>
+        <string>Team 19</string>
+        <string>Team 20</string>
+        <string>Team 17</string>
+        <string>Team 20</string>
+      </HomeTeamName>
+      <VisitorTeamName>
+        <string xsi:nil="true" />
+        <string>Team 5</string>
+        <string>Team 5</string>
+        <string>Team 1</string>
+        <string>Team 3</string>
+        <string>Team 18</string>
+        <string>Team 1</string>
+        <string>Team 15</string>
+        <string>Team 23</string>
+        <string>Team 21</string>
+        <string>Team 22</string>
+      </VisitorTeamName>
+      <Year>
+        <short>0</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>2</short>
+        <short>1</short>
+        <short>2</short>
+        <short>3</short>
+        <short>3</short>
+        <short>3</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>74</short>
+        <short>72</short>
+        <short>66</short>
+        <short>64</short>
+        <short>62</short>
+        <short>62</short>
+        <short>62</short>
+        <short>60</short>
+        <short>59</short>
+        <short>58</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>841</short>
+        <short>321</short>
+        <short>620</short>
+        <short>727</short>
+        <short>225</short>
+        <short>913</short>
+        <short>891</short>
+        <short>779</short>
+        <short>361</short>
+        <short>578</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intGameMostPim>
+    <intGameMostHits>
+      <HomeTeamName>
+        <string xsi:nil="true" />
+        <string>Team 7</string>
+        <string>Team 12</string>
+        <string>Team 8</string>
+        <string>Team 13</string>
+        <string>Team 17</string>
+        <string>Team 16</string>
+        <string>Team 5</string>
+        <string>Team 18</string>
+        <string>Team 15</string>
+        <string>Team 7</string>
+      </HomeTeamName>
+      <VisitorTeamName>
+        <string xsi:nil="true" />
+        <string>Team 5</string>
+        <string>Team 18</string>
+        <string>Team 20</string>
+        <string>Team 19</string>
+        <string>Team 23</string>
+        <string>Team 14</string>
+        <string>Team 6</string>
+        <string>Team 22</string>
+        <string>Team 7</string>
+        <string>Team 18</string>
+      </VisitorTeamName>
+      <Year>
+        <short>0</short>
+        <short>1</short>
+        <short>2</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+        <short>3</short>
+        <short>3</short>
+        <short>1</short>
+        <short>2</short>
+        <short>2</short>
+      </Year>
+      <VValue>
+        <short>0</short>
+        <short>79</short>
+        <short>75</short>
+        <short>70</short>
+        <short>70</short>
+        <short>70</short>
+        <short>70</short>
+        <short>70</short>
+        <short>69</short>
+        <short>69</short>
+        <short>69</short>
+      </VValue>
+      <ScheduleGame>
+        <short>0</short>
+        <short>501</short>
+        <short>179</short>
+        <short>342</short>
+        <short>78</short>
+        <short>164</short>
+        <short>399</short>
+        <short>468</short>
+        <short>286</short>
+        <short>488</short>
+        <short>767</short>
+      </ScheduleGame>
+      <intNumber>10</intNumber>
+    </intGameMostHits>
+  </TypeLeagueGameRecord>
+</ArrayOfTypeLeagueGameRecord>

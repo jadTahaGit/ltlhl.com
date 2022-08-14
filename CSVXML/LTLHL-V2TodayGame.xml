@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeOutputXMLTodayGame xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Pro948</GameNumber>
+    <Link>LTLHL-948.php</Link>
+    <VisitorTeamNumber>5</VisitorTeamNumber>
+    <VisitorTeam>Team 5</VisitorTeam>
+    <VisitorTeamAbbre>TM5</VisitorTeamAbbre>
+    <VisitorTeamShots>18</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>41</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>3</VisitorTeamScore>
+    <VisitorTeamGoal>Sammy Quinn(12,13), Jean-Philippe Nash(33)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Ignacio Kirk (TM5), 21 saves from 23 shots - (0.913), W, 30-34-7, 60:00 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>1</HomeTeamNumber>
+    <HomeTeam>Team 1</HomeTeam>
+    <HomeTeamAbbre>TM1</HomeTeamAbbre>
+    <HomeTeamShots>23</HomeTeamShots>
+    <HomeTeamShotsAttemp>44</HomeTeamShotsAttemp>
+    <HomeTeamScore>2</HomeTeamScore>
+    <HomeTeamGoal>Andrzej Berggren(9), Pontus Frid(7)</HomeTeamGoal>
+    <HomeTeamGoaler>Dwayne Vallee (TM1), 5 saves from 8 shots - (0.625), L, 37-30-9, 31:47 minutes Carl Turnbull (TM1), 10 saves from 10 shots - (1.000), 27:15 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Sammy Quinn (TM5)</string>
+      <string>Pascal Plamondon (TM5)</string>
+      <string>Alf Kiuru (TM5)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Pro949</GameNumber>
+    <Link>LTLHL-949.php</Link>
+    <VisitorTeamNumber>22</VisitorTeamNumber>
+    <VisitorTeam>Team 22</VisitorTeam>
+    <VisitorTeamAbbre>T22</VisitorTeamAbbre>
+    <VisitorTeamShots>12</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>26</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>0</VisitorTeamScore>
+    <VisitorTeamGoal />
+    <VisitorTeamGoaler>Oscar Jacobs (T22), 24 saves from 25 shots - (0.960), L, 24-41-8, 59:04 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>16</HomeTeamNumber>
+    <HomeTeam>Team 16</HomeTeam>
+    <HomeTeamAbbre>T16</HomeTeamAbbre>
+    <HomeTeamShots>26</HomeTeamShots>
+    <HomeTeamShotsAttemp>49</HomeTeamShotsAttemp>
+    <HomeTeamScore>2</HomeTeamScore>
+    <HomeTeamGoal>Anthony Duke(20,21)</HomeTeamGoal>
+    <HomeTeamGoaler>Valerka Usova (T16), 12 saves from 12 shots - (1.000), W, 32-44-4, 60:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Anthony Duke (T16)</string>
+      <string>Bruce Gratton (T16)</string>
+      <string>Valerka Usova (T16)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Pro950</GameNumber>
+    <Link>LTLHL-950.php</Link>
+    <VisitorTeamNumber>8</VisitorTeamNumber>
+    <VisitorTeam>Team 8</VisitorTeam>
+    <VisitorTeamAbbre>TM8</VisitorTeamAbbre>
+    <VisitorTeamShots>18</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>35</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>4</VisitorTeamScore>
+    <VisitorTeamGoal>Jiri Filip(12,13), Muhammad Rice(29), Mitchell Hassan(3)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Aaron Durocher (TM8), 20 saves from 22 shots - (0.909), OTL, 2-1-2, 36:14 minutes Andreyka Malysheva (TM8), 13 saves from 16 shots - (0.813), 24:23 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>10</HomeTeamNumber>
+    <HomeTeam>Team 10</HomeTeam>
+    <HomeTeamAbbre>T10</HomeTeamAbbre>
+    <HomeTeamShots>38</HomeTeamShots>
+    <HomeTeamShotsAttemp>68</HomeTeamShotsAttemp>
+    <HomeTeamScore>5</HomeTeamScore>
+    <HomeTeamGoal>Platon Egorova(21), Or Thomson(16), Cliff Nixon(27), Rafael Sharipova(6), Rodney Watt(36)</HomeTeamGoal>
+    <HomeTeamGoaler>Niyaz Ignatenko (T10), 14 saves from 18 shots - (0.778), W, 50-21-5, 61:19 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note>End in Overtime</Note>
+    <Star>
+      <string xsi:nil="true" />
+      <string>Jiri Filip (TM8)</string>
+      <string>Veli-Matti Kannisto (T10)</string>
+      <string>Platon Egorova (T10)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Farm954</GameNumber>
+    <Link>LTLHL-Farm-954.php</Link>
+    <VisitorTeamNumber>21</VisitorTeamNumber>
+    <VisitorTeam>Farm Team 21</VisitorTeam>
+    <VisitorTeamAbbre>F21</VisitorTeamAbbre>
+    <VisitorTeamShots>34</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>66</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>3</VisitorTeamScore>
+    <VisitorTeamGoal>Andrzej Fagerberg(18), Saveliy Subbotin(15), Oscar Carroll(4)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Tim Raymond (F21), 16 saves from 17 shots - (0.941), W, 33-37-7, 60:00 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>19</HomeTeamNumber>
+    <HomeTeam>Farm Team 19</HomeTeam>
+    <HomeTeamAbbre>F19</HomeTeamAbbre>
+    <HomeTeamShots>17</HomeTeamShots>
+    <HomeTeamShotsAttemp>31</HomeTeamShotsAttemp>
+    <HomeTeamScore>1</HomeTeamScore>
+    <HomeTeamGoal>Luc St Pierre(9)</HomeTeamGoal>
+    <HomeTeamGoaler>Urad Balint (F19), 6 saves from 6 shots - (1.000), 17:07 minutes Antonio Hynes (F19), 25 saves from 28 shots - (0.893), L, 26-46-6, 42:53 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Andrzej Fagerberg (F21)</string>
+      <string>Saveliy Subbotin (F21)</string>
+      <string>Oscar Carroll (F21)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Farm955</GameNumber>
+    <Link>LTLHL-Farm-955.php</Link>
+    <VisitorTeamNumber>24</VisitorTeamNumber>
+    <VisitorTeam>Farm Team 24</VisitorTeam>
+    <VisitorTeamAbbre>F24</VisitorTeamAbbre>
+    <VisitorTeamShots>25</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>50</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>4</VisitorTeamScore>
+    <VisitorTeamGoal>Pierre Steele(7), Art Yu(13), Dick Hallqvist(35), Franklin Byers(9)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Peter Maclean (F24), 20 saves from 20 shots - (1.000), W, 2-1-1, 54:46 minutes Alfred Fields (F24), 1 saves from 4 shots - (0.250), 5:14 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>4</HomeTeamNumber>
+    <HomeTeam>Farm Team 4</HomeTeam>
+    <HomeTeamAbbre>FT4</HomeTeamAbbre>
+    <HomeTeamShots>24</HomeTeamShots>
+    <HomeTeamShotsAttemp>36</HomeTeamShotsAttemp>
+    <HomeTeamScore>3</HomeTeamScore>
+    <HomeTeamGoal>Owen Richards(7), Josh Garcia(29,30)</HomeTeamGoal>
+    <HomeTeamGoaler>Zhaxylyk Kolesnikova (FT4), 21 saves from 25 shots - (0.840), L, 42-30-6, 60:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Peter Maclean (F24)</string>
+      <string>Josh Garcia (FT4)</string>
+      <string>Dick Hallqvist (F24)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Farm956</GameNumber>
+    <Link>LTLHL-Farm-956.php</Link>
+    <VisitorTeamNumber>5</VisitorTeamNumber>
+    <VisitorTeam>Farm Team 5</VisitorTeam>
+    <VisitorTeamAbbre>FT5</VisitorTeamAbbre>
+    <VisitorTeamShots>24</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>42</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>1</VisitorTeamScore>
+    <VisitorTeamGoal>Kurt Johnstone(22)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Israel Espinoza (FT5), 27 saves from 28 shots - (0.964), OTL, 28-37-12, 65:00 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>6</HomeTeamNumber>
+    <HomeTeam>Farm Team 6</HomeTeam>
+    <HomeTeamAbbre>FT6</HomeTeamAbbre>
+    <HomeTeamShots>28</HomeTeamShots>
+    <HomeTeamShotsAttemp>49</HomeTeamShotsAttemp>
+    <HomeTeamScore>2</HomeTeamScore>
+    <HomeTeamGoal>Wilfred Saunders(15)</HomeTeamGoal>
+    <HomeTeamGoaler>Stanley Chambers (FT6), 23 saves from 24 shots - (0.958), W, 50-17-11, 65:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note>End in Shootout</Note>
+    <Star>
+      <string xsi:nil="true" />
+      <string>Israel Espinoza (FT5)</string>
+      <string>Stanley Chambers (FT6)</string>
+      <string>Kurt Johnstone (FT5)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Farm957</GameNumber>
+    <Link>LTLHL-Farm-957.php</Link>
+    <VisitorTeamNumber>8</VisitorTeamNumber>
+    <VisitorTeam>Farm Team 8</VisitorTeam>
+    <VisitorTeamAbbre>FT8</VisitorTeamAbbre>
+    <VisitorTeamShots>30</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>54</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>4</VisitorTeamScore>
+    <VisitorTeamGoal>Ernest Caron(9), Mario Hosseini(9), Ivan Jiang(50,51)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Ahmet Moller (FT8), 39 saves from 41 shots - (0.951), W, 34-33-9, 60:00 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>10</HomeTeamNumber>
+    <HomeTeam>Farm Team 10</HomeTeam>
+    <HomeTeamAbbre>F10</HomeTeamAbbre>
+    <HomeTeamShots>41</HomeTeamShots>
+    <HomeTeamShotsAttemp>70</HomeTeamShotsAttemp>
+    <HomeTeamScore>2</HomeTeamScore>
+    <HomeTeamGoal>Antonio Keller(11), Wesley Atkinson(5)</HomeTeamGoal>
+    <HomeTeamGoaler>Aslan Afonina (F10), 7 saves from 10 shots - (0.700), L, 39-29-9, 14:57 minutes Alex Bergman (F10), 19 saves from 20 shots - (0.950), 45:03 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Ivan Jiang (FT8)</string>
+      <string>Ahmet Moller (FT8)</string>
+      <string>Anssi Mikkola (FT8)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Farm958</GameNumber>
+    <Link>LTLHL-Farm-958.php</Link>
+    <VisitorTeamNumber>16</VisitorTeamNumber>
+    <VisitorTeam>Farm Team 16</VisitorTeam>
+    <VisitorTeamAbbre>F16</VisitorTeamAbbre>
+    <VisitorTeamShots>22</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>54</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>0</VisitorTeamScore>
+    <VisitorTeamGoal />
+    <VisitorTeamGoaler>Evan Tucker (F16), 17 saves from 18 shots - (0.944), 35:31 minutes Rob Dickson (F16), 15 saves from 18 shots - (0.833), L, 47-20-8, 24:29 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>20</HomeTeamNumber>
+    <HomeTeam>Farm Team 20</HomeTeam>
+    <HomeTeamAbbre>F20</HomeTeamAbbre>
+    <HomeTeamShots>36</HomeTeamShots>
+    <HomeTeamShotsAttemp>58</HomeTeamShotsAttemp>
+    <HomeTeamScore>4</HomeTeamScore>
+    <HomeTeamGoal>Wilfred Cook(27,28,29), Seth Mcintosh(2)</HomeTeamGoal>
+    <HomeTeamGoaler>Mustafa Bolatov (F20), 22 saves from 22 shots - (1.000), W, 42-27-5, 60:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Wilfred Cook (F20)</string>
+      <string>Ivan Giroux (F20)</string>
+      <string>Mustafa Bolatov (F20)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Farm959</GameNumber>
+    <Link>LTLHL-Farm-959.php</Link>
+    <VisitorTeamNumber>7</VisitorTeamNumber>
+    <VisitorTeam>Farm Team 7</VisitorTeam>
+    <VisitorTeamAbbre>FT7</VisitorTeamAbbre>
+    <VisitorTeamShots>20</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>39</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>0</VisitorTeamScore>
+    <VisitorTeamGoal />
+    <VisitorTeamGoaler>David Terekhov (FT7), 24 saves from 27 shots - (0.889), L, 30-45-4, 42:20 minutes Leevi Juntunen (FT7), 9 saves from 9 shots - (1.000), 17:40 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>9</HomeTeamNumber>
+    <HomeTeam>Farm Team 9</HomeTeam>
+    <HomeTeamAbbre>FT9</HomeTeamAbbre>
+    <HomeTeamShots>36</HomeTeamShots>
+    <HomeTeamShotsAttemp>78</HomeTeamShotsAttemp>
+    <HomeTeamScore>3</HomeTeamScore>
+    <HomeTeamGoal>Isaac Short(42,43), Al Zhang(49)</HomeTeamGoal>
+    <HomeTeamGoaler>Dave Cherry (FT9), 20 saves from 20 shots - (1.000), W, 54-20-3, 60:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Dave Cherry (FT9)</string>
+      <string>Isaac Short (FT9)</string>
+      <string>Al Zhang (FT9)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Pro951</GameNumber>
+    <Link>LTLHL-951.php</Link>
+    <VisitorTeamNumber>2</VisitorTeamNumber>
+    <VisitorTeam>Team 2</VisitorTeam>
+    <VisitorTeamAbbre>TM2</VisitorTeamAbbre>
+    <VisitorTeamShots>32</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>66</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>3</VisitorTeamScore>
+    <VisitorTeamGoal>Tikhon Bocharova(20), Teijo Himanen(11), Rogelio Donovan(5)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Blake Hansen (TM2), 26 saves from 29 shots - (0.897), OTL, 52-17-8, 65:00 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>6</HomeTeamNumber>
+    <HomeTeam>Team 6</HomeTeam>
+    <HomeTeamAbbre>TM6</HomeTeamAbbre>
+    <HomeTeamShots>29</HomeTeamShots>
+    <HomeTeamShotsAttemp>60</HomeTeamShotsAttemp>
+    <HomeTeamScore>4</HomeTeamScore>
+    <HomeTeamGoal>Johnny Fry(7), Gus Richard(29), Mitchell Allard(41)</HomeTeamGoal>
+    <HomeTeamGoaler>Khaled Mohammadi (TM6), 29 saves from 32 shots - (0.906), W, 39-24-12, 65:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note>End in Shootout</Note>
+    <Star>
+      <string xsi:nil="true" />
+      <string>Gus Richard (TM6)</string>
+      <string>Tikhon Bocharova (TM2)</string>
+      <string>Teijo Himanen (TM2)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Pro952</GameNumber>
+    <Link>LTLHL-952.php</Link>
+    <VisitorTeamNumber>17</VisitorTeamNumber>
+    <VisitorTeam>Team 17</VisitorTeam>
+    <VisitorTeamAbbre>T17</VisitorTeamAbbre>
+    <VisitorTeamShots>43</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>76</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>3</VisitorTeamScore>
+    <VisitorTeamGoal>Walter Turnbull(39), Hannes Hofmann(13), Arvid Tonnesen(28)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Shyngyskhan Goncharova (T17), 20 saves from 24 shots - (0.833), L, 50-21-4, 59:01 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>7</HomeTeamNumber>
+    <HomeTeam>Team 7</HomeTeam>
+    <HomeTeamAbbre>TM7</HomeTeamAbbre>
+    <HomeTeamShots>24</HomeTeamShots>
+    <HomeTeamShotsAttemp>41</HomeTeamShotsAttemp>
+    <HomeTeamScore>4</HomeTeamScore>
+    <HomeTeamGoal>Jorge Day(42), Harold Daniel(13), Norman Lacroix(24), Rafael Dragun(8)</HomeTeamGoal>
+    <HomeTeamGoaler>Tatu Ruuska (TM7), 40 saves from 43 shots - (0.930), W, 33-30-3, 60:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Hannes Hofmann (T17)</string>
+      <string>Jorge Day (TM7)</string>
+      <string>Harold Daniel (TM7)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Pro953</GameNumber>
+    <Link>LTLHL-953.php</Link>
+    <VisitorTeamNumber>21</VisitorTeamNumber>
+    <VisitorTeam>Team 21</VisitorTeam>
+    <VisitorTeamAbbre>T21</VisitorTeamAbbre>
+    <VisitorTeamShots>12</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>27</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>1</VisitorTeamScore>
+    <VisitorTeamGoal>Milan Marcin(7)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Josh Hutchinson (T21), 35 saves from 37 shots - (0.946), L, 30-45-5, 59:08 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>4</HomeTeamNumber>
+    <HomeTeam>Team 4</HomeTeam>
+    <HomeTeamAbbre>TM4</HomeTeamAbbre>
+    <HomeTeamShots>37</HomeTeamShots>
+    <HomeTeamShotsAttemp>68</HomeTeamShotsAttemp>
+    <HomeTeamScore>2</HomeTeamScore>
+    <HomeTeamGoal>Sylvain Russell(37), Radim Hosek(11)</HomeTeamGoal>
+    <HomeTeamGoaler>Klemens Schone (TM4), 11 saves from 12 shots - (0.917), W, 42-32-5, 60:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Josh Hutchinson (T21)</string>
+      <string>Radim Hosek (TM4)</string>
+      <string>Sylvain Russell (TM4)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Pro954</GameNumber>
+    <Link>LTLHL-954.php</Link>
+    <VisitorTeamNumber>19</VisitorTeamNumber>
+    <VisitorTeam>Team 19</VisitorTeam>
+    <VisitorTeamAbbre>T19</VisitorTeamAbbre>
+    <VisitorTeamShots>25</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>44</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>3</VisitorTeamScore>
+    <VisitorTeamGoal>Jacob Rogers(8), Bertil Malmgren(16), Radko Kaspar(8)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Rolf Karhu (T19), 7 saves from 11 shots - (0.636), L, 31-40-5, 28:15 minutes Lance Dagenais (T19), 13 saves from 14 shots - (0.929), 31:45 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>9</HomeTeamNumber>
+    <HomeTeam>Team 9</HomeTeam>
+    <HomeTeamAbbre>TM9</HomeTeamAbbre>
+    <HomeTeamShots>25</HomeTeamShots>
+    <HomeTeamShotsAttemp>41</HomeTeamShotsAttemp>
+    <HomeTeamScore>5</HomeTeamScore>
+    <HomeTeamGoal>Lars-Olov Sonesson(32), Idris Kostenko(16), Hans-Otto Baumgart(26,27), Per Siltala(12)</HomeTeamGoal>
+    <HomeTeamGoaler>Gregory Deschamps (TM9), 22 saves from 25 shots - (0.880), W, 31-39-7, 60:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Hans-Otto Baumgart (TM9)</string>
+      <string>Idris Kostenko (TM9)</string>
+      <string>Lars-Olov Sonesson (TM9)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Pro955</GameNumber>
+    <Link>LTLHL-955.php</Link>
+    <VisitorTeamNumber>22</VisitorTeamNumber>
+    <VisitorTeam>Team 22</VisitorTeam>
+    <VisitorTeamAbbre>T22</VisitorTeamAbbre>
+    <VisitorTeamShots>16</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>26</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>2</VisitorTeamScore>
+    <VisitorTeamGoal>Norbert Fiserova(9), Vovik Klimova(25)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Oscar Jacobs (T22), 21 saves from 25 shots - (0.840), L, 24-42-8, 45:09 minutes Roberto Prevost (T22), 9 saves from 12 shots - (0.750), 14:51 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>12</HomeTeamNumber>
+    <HomeTeam>Team 12</HomeTeam>
+    <HomeTeamAbbre>T12</HomeTeamAbbre>
+    <HomeTeamShots>37</HomeTeamShots>
+    <HomeTeamShotsAttemp>72</HomeTeamShotsAttemp>
+    <HomeTeamScore>7</HomeTeamScore>
+    <HomeTeamGoal>Billy Peterson(19), Travis Allison(13), Al Solis(14,15), Jerry Mueller(50,51), Byron Bryant(29)</HomeTeamGoal>
+    <HomeTeamGoaler>Bruno Gillberg (T12), 14 saves from 16 shots - (0.875), W, 47-24-6, 60:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Jerry Mueller (T12)</string>
+      <string>Billy Peterson (T12)</string>
+      <string>Al Solis (T12)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Pro956</GameNumber>
+    <Link>LTLHL-956.php</Link>
+    <VisitorTeamNumber>13</VisitorTeamNumber>
+    <VisitorTeam>Team 13</VisitorTeam>
+    <VisitorTeamAbbre>T13</VisitorTeamAbbre>
+    <VisitorTeamShots>20</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>33</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>2</VisitorTeamScore>
+    <VisitorTeamGoal>Oscar Trujillo(30), Or Fox(8)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Christopher Abbott (T13), 17 saves from 20 shots - (0.850), L, 41-29-7, 59:11 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>3</HomeTeamNumber>
+    <HomeTeam>Team 3</HomeTeam>
+    <HomeTeamAbbre>TM3</HomeTeamAbbre>
+    <HomeTeamShots>20</HomeTeamShots>
+    <HomeTeamShotsAttemp>44</HomeTeamShotsAttemp>
+    <HomeTeamScore>3</HomeTeamScore>
+    <HomeTeamGoal>Edwin Nielsen(3), Ingvar Borgstrom(22,23)</HomeTeamGoal>
+    <HomeTeamGoaler>Pasquale Ruf (TM3), 18 saves from 20 shots - (0.900), W, 42-24-8, 60:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Ingvar Borgstrom (TM3)</string>
+      <string>Or Fox (T13)</string>
+      <string>Edwin Nielsen (TM3)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Farm960</GameNumber>
+    <Link>LTLHL-Farm-960.php</Link>
+    <VisitorTeamNumber>23</VisitorTeamNumber>
+    <VisitorTeam>Farm Team 23</VisitorTeam>
+    <VisitorTeamAbbre>F23</VisitorTeamAbbre>
+    <VisitorTeamShots>23</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>50</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>3</VisitorTeamScore>
+    <VisitorTeamGoal>Boris Ponomarev(13), Ake Sjoberg(2), Donats Vilcane(35)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Amir Brisebois (F23), 25 saves from 28 shots - (0.893), OTL, 40-29-8, 65:00 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>17</HomeTeamNumber>
+    <HomeTeam>Farm Team 17</HomeTeam>
+    <HomeTeamAbbre>F17</HomeTeamAbbre>
+    <HomeTeamShots>28</HomeTeamShots>
+    <HomeTeamShotsAttemp>50</HomeTeamShotsAttemp>
+    <HomeTeamScore>4</HomeTeamScore>
+    <HomeTeamGoal>Carsten Fricke(47), Jude Turner(34), Aleksandr Borisenko(8)</HomeTeamGoal>
+    <HomeTeamGoaler>Ted Dunlop (F17), 20 saves from 23 shots - (0.870), W, 43-24-7, 65:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note>End in Shootout</Note>
+    <Star>
+      <string xsi:nil="true" />
+      <string>Aleksandr Borisenko (F17)</string>
+      <string>Donats Vilcane (F23)</string>
+      <string>Noel St Pierre (F17)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Pro957</GameNumber>
+    <Link>LTLHL-957.php</Link>
+    <VisitorTeamNumber>17</VisitorTeamNumber>
+    <VisitorTeam>Team 17</VisitorTeam>
+    <VisitorTeamAbbre>T17</VisitorTeamAbbre>
+    <VisitorTeamShots>24</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>50</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>2</VisitorTeamScore>
+    <VisitorTeamGoal>Kris Wright(31), Herb Macmillan(7)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Shyngyskhan Goncharova (T17), 20 saves from 20 shots - (1.000), W, 51-21-4, 60:00 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>11</HomeTeamNumber>
+    <HomeTeam>Team 11</HomeTeam>
+    <HomeTeamAbbre>T11</HomeTeamAbbre>
+    <HomeTeamShots>20</HomeTeamShots>
+    <HomeTeamShotsAttemp>38</HomeTeamShotsAttemp>
+    <HomeTeamScore>0</HomeTeamScore>
+    <HomeTeamGoal />
+    <HomeTeamGoaler>Cory Giguere (T11), 22 saves from 24 shots - (0.917), L, 36-34-6, 60:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Shyngyskhan Goncharova (T17)</string>
+      <string>Herb Macmillan (T17)</string>
+      <string>Hannes Hofmann (T17)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Pro958</GameNumber>
+    <Link>LTLHL-958.php</Link>
+    <VisitorTeamNumber>19</VisitorTeamNumber>
+    <VisitorTeam>Team 19</VisitorTeam>
+    <VisitorTeamAbbre>T19</VisitorTeamAbbre>
+    <VisitorTeamShots>25</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>52</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>2</VisitorTeamScore>
+    <VisitorTeamGoal>Bertil Malmgren(17,18)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Rolf Karhu (T19), 27 saves from 28 shots - (0.964), W, 32-40-5, 61:21 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>23</HomeTeamNumber>
+    <HomeTeam>Team 23</HomeTeam>
+    <HomeTeamAbbre>T23</HomeTeamAbbre>
+    <HomeTeamShots>28</HomeTeamShots>
+    <HomeTeamShotsAttemp>70</HomeTeamShotsAttemp>
+    <HomeTeamScore>1</HomeTeamScore>
+    <HomeTeamGoal>Ricardo Booth(47)</HomeTeamGoal>
+    <HomeTeamGoaler>George Skinner (T23), 23 saves from 25 shots - (0.920), OTL, 43-25-8, 61:21 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note>End in Overtime</Note>
+    <Star>
+      <string xsi:nil="true" />
+      <string>Bertil Malmgren (T19)</string>
+      <string>Rolf Karhu (T19)</string>
+      <string>Jaime Huang (T19)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Pro959</GameNumber>
+    <Link>LTLHL-959.php</Link>
+    <VisitorTeamNumber>24</VisitorTeamNumber>
+    <VisitorTeam>Team 24</VisitorTeam>
+    <VisitorTeamAbbre>T24</VisitorTeamAbbre>
+    <VisitorTeamShots>19</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>39</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>2</VisitorTeamScore>
+    <VisitorTeamGoal>Anssi Hujanen(11), Esa Tervo(42)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Alan Holmberg (T24), 7 saves from 10 shots - (0.700), L, 47-24-7, 31:38 minutes Ferenc Medved (T24), 14 saves from 14 shots - (1.000), 27:24 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>18</HomeTeamNumber>
+    <HomeTeam>Team 18</HomeTeam>
+    <HomeTeamAbbre>T18</HomeTeamAbbre>
+    <HomeTeamShots>24</HomeTeamShots>
+    <HomeTeamShotsAttemp>52</HomeTeamShotsAttemp>
+    <HomeTeamScore>3</HomeTeamScore>
+    <HomeTeamGoal>Jason Trujillo(50), Joachim Norin(18), Max Rodgers(11)</HomeTeamGoal>
+    <HomeTeamGoaler>Robt Mcmahon (T18), 17 saves from 19 shots - (0.895), W, 54-15-6, 60:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Max Rodgers (T18)</string>
+      <string>Jason Trujillo (T18)</string>
+      <string>Lee Hu (T18)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+  <TypeOutputXMLTodayGame>
+    <GameNumber>Pro960</GameNumber>
+    <Link>LTLHL-960.php</Link>
+    <VisitorTeamNumber>20</VisitorTeamNumber>
+    <VisitorTeam>Team 20</VisitorTeam>
+    <VisitorTeamAbbre>T20</VisitorTeamAbbre>
+    <VisitorTeamShots>26</VisitorTeamShots>
+    <VisitorTeamShotsAttemp>49</VisitorTeamShotsAttemp>
+    <VisitorTeamScore>3</VisitorTeamScore>
+    <VisitorTeamGoal>Barry Curtis(28), Herberts Vasiljevs(19), Raymond Vetsch(14)</VisitorTeamGoal>
+    <VisitorTeamGoaler>Francis St-Pierre (T20), 27 saves from 28 shots - (0.964), W, 25-44-4, 60:00 minutes </VisitorTeamGoaler>
+    <VisitorTeamThemeID>0</VisitorTeamThemeID>
+    <HomeTeamNumber>14</HomeTeamNumber>
+    <HomeTeam>Team 14</HomeTeam>
+    <HomeTeamAbbre>T14</HomeTeamAbbre>
+    <HomeTeamShots>28</HomeTeamShots>
+    <HomeTeamShotsAttemp>69</HomeTeamShotsAttemp>
+    <HomeTeamScore>1</HomeTeamScore>
+    <HomeTeamGoal>Edgar Miezis(5)</HomeTeamGoal>
+    <HomeTeamGoaler>Artemiy Kotova (T14), 23 saves from 26 shots - (0.885), L, 40-32-1, 60:00 minutes </HomeTeamGoaler>
+    <HomeTeamThemeID>0</HomeTeamThemeID>
+    <Note />
+    <Star>
+      <string xsi:nil="true" />
+      <string>Wilson Brunet (T20)</string>
+      <string>Herberts Vasiljevs (T20)</string>
+      <string>Francis St-Pierre (T20)</string>
+    </Star>
+  </TypeOutputXMLTodayGame>
+</ArrayOfTypeOutputXMLTodayGame>
